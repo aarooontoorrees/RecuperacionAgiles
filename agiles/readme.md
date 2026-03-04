@@ -6,7 +6,7 @@ oportuno. Usa el formato [Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 ## UT3. Modificaciones realizadas
 
-<!-- Indica aquí las modificaciones que hayas realizado, ejemplo: -->
+Projecto convertido a Maven, añadido el devops, carpeta .github y workflows creada y añadido .yml en carpeta workflows
 
 ### Ordenación de los botones
 
@@ -22,7 +22,7 @@ siguiendo un orden de izquierda a derecha y de arriba a abajo.
 
 ## UT4. Ejecución de herramientas
 
-<!-- Indica aquí cómo has ejecutado las herramientas y cuál ha sido la salida,
+Test creados y corroborados
 ejemplo: -->
 
 ### Testing
